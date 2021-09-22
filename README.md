@@ -5,7 +5,7 @@ Projeto game baseado no problema de Monthy Hall
 Tecnologias: ReactJS, NextJS, CSS.
 
 
-Nesse projeto foram aplicados alguns dos conceitos de hooks (useState, useEffect, useRouter), styled components, integração com Typescript.
+Nesse projeto foram aplicados alguns dos conceitos de hooks (useState, useEffect, useRouter), Styled Components, integração com Typescript.
 
 
 **TELA INICIAL:** 
