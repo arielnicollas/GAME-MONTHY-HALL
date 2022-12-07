@@ -4,7 +4,7 @@ Projeto com base no problema de Monthy Hall
 
 Tecnologias: ReactJS, NextJS, CSS.
 
-Nesse projeto foram aplicados alguns dos conceitos de hooks (useState, useEffect, useRouter), Styled Components, integração com Typescript.
+Nesse projeto foram aplicados conceitos de hooks (useState, useEffect, useRouter), Styled Components, integração com Typescript.
 
 **TELA INICIAL:** 
 
